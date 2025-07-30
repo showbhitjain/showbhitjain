@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a robotics engineer passionate about developing real-time control systems for robotic manipulators. My focus lies in motion planning, model-based control architectures, and optimization-based inverse kinematics. I specialize in building reliable and testable robotic software in C++, with integrated tooling for simulation and visualization.
+I'm a robotics engineer passionate about developing real-time control systems for robotic manipulators. My focus lies in motion planning, model-based control architectures, optimization-based inverse kinematics and robotic manipulation. I specialize in building reliable and testable robotic software in C++, with integrated tooling for simulation and visualization.
 
 ---
 
