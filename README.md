@@ -28,7 +28,8 @@ I'm a robotics engineer passionate about developing real-time control systems fo
 ### 🦾 Obstacle Avoidance for Serial-Chain Manipulators  
 📁 [Repository Link](https://github.com/showbhitjain/TUM_SJ_ObstacleAvoidanceLib)
 
-This project was developed as part of my Master’s thesis and implements static, dynamic, and self-collision avoidance for the Franka Emika Panda robot using a modular, real-time capable C++ framework.
+This project was developed as part of my Master’s thesis and implements static, dynamic, and self-collision avoidance for serial chain manipulators with revolute joints using a  C++ framework. The repository README includes links to the full thesis, presentation slides, technical brief, and experimental videos demonstrating the results.
+
 
 **✅ Publicly Testable (Offline):**
 - Static obstacle avoidance  
@@ -38,11 +39,13 @@ This project was developed as part of my Master’s thesis and implements static
 **⚠️ Restricted:**
 Real-time dynamic obstacle avoidance code depends on private repositories (vision modules) and is not executable outside the original development environment. However, experiment results and videos are publicly available.
 
-📄 [Master Thesis (PDF)](https://drive.google.com/file/d/1uZbSs04RhBjDHDoSViISdTlmXnGgS7YP/view?usp=sharing)  
-🖥 [Presentation Slides](https://1drv.ms/p/c/dea76ca5570c8d33/ERC1VpDvPnpGh0Q68iaLugwBiAfvXDLN0amC-sXOPc1f3Q?e=Uk3dhX)  
-🧠 [Technical Brief PDF](https://drive.google.com/file/d/1AfqaCPIeSaG-R99DM1RTwOLxYUkQZ2Ox/view?usp=sharing)  
-🎥 [Experiment Videos](https://github.com/showbhitjain/TUM_SJ_ObstacleAvoidanceLib#-videos)
-
+<!--
+📚 Additional Resources:
+- 📄 Master Thesis (PDF): https://drive.google.com/file/d/1uZbSs04RhBjDHDoSViISdTlmXnGgS7YP/view?usp=sharing  
+- 🖥 Presentation Slides: https://1drv.ms/p/c/dea76ca5570c8d33/ERC1VpDvPnpGh0Q68iaLugwBiAfvXDLN0amC-sXOPc1f3Q?e=Uk3dhX  
+- 🧠 Technical Brief PDF: https://drive.google.com/file/d/1AfqaCPIeSaG-R99DM1RTwOLxYUkQZ2Ox/view?usp=sharing  
+- 🎥 Experiment Videos: https://github.com/showbhitjain/TUM_SJ_ObstacleAvoidanceLib#-videos
+-->
 ---
 
 ## 📬 Contact
