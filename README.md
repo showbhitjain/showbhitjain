@@ -27,7 +27,9 @@ Real-time dynamic obstacle avoidance code depends on private repositories (visio
 
 ## 🚀 Learning & Development Roadmap
 
-### 🤖 [ROS 2 Learning Practice (Repository Link)](#)
+📁 [Repository Link](Soon)
+
+
 Hands-on implementations from the **ROS 2 for Beginners (Parts 1–3)** and **ros2_Control** courses (Packt/Udemy).  
 Developed in **C++** and **Python**, this repository consolidates key ROS 2 concepts forming a strong foundation for advanced robotic manipulation and perception projects.
 
