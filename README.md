@@ -27,7 +27,7 @@ Real-time dynamic obstacle avoidance code depends on private repositories (visio
 
 ## 🚀 Learning & Development Roadmap
 
-📁 [Repository Link](Soon)
+📁 [Repository Link](https://github.com/showbhitjain/ROS2_Learning_Practice)
 
 
 Hands-on implementations from the **ROS 2 for Beginners (Parts 1–3)** and **ros2_Control** courses (Packt/Udemy).  
