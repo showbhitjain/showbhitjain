@@ -43,7 +43,7 @@ ROS 2 Jazzy • ros2_control • TF2 • Gazebo • URDF/Xacro • Multithreaded
 ---
 
 ### 🦾 Upcoming: Pick-and-Place Manipulation Project  
-📆 **Planned:** December 2025  
+ 
 
 A complete **ROS 2 (Jazzy)**–based manipulation pipeline integrating **ros2_control**, **MoveIt 2**, and a **perception module** using **OpenCV** and **YOLOv8** for 6-DoF grasp estimation.  
 This project will focus on **trajectory planning**, **motion execution**, and **sensor-driven grasping** using simulated RGB-D data in **Gazebo/Isaac Sim**.
