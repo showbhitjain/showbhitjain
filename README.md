@@ -8,6 +8,7 @@ I build efficient and testable robotic software in **C++** and **Python**, integ
 # Portfolio
 
 A curated visual overview of my robotics projects, research work, and hands-on engineering experience. 
+
 👉 **[View portfolio presentation](https://1drv.ms/p/c/dea76ca5570c8d33/IQCqqfmJL28WT6Fd3xajGJusAQDoYOVYbtht_ZmQnArjLCo)**
 
 
