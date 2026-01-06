@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shobhit Jain
 
-Robotics Engineer (M.Sc. Mechatronics & Robotics, TUM) passionate about real-time control, motion planning, and intelligent manipulation.  
+Mechatronics and Robotics Engineer (M.Sc. Mechatronics & Robotics, TUM) passionate about real-time control, motion planning, and intelligent manipulation.  
 I build efficient and testable robotic software in **C++** and **Python**, integrating simulation, visualization, and optimization tools.
 
 ---
