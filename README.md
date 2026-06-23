@@ -32,38 +32,6 @@ This project was developed as part of my Master’s thesis and implements static
 Real-time dynamic obstacle avoidance code depends on private repositories (vision modules) and is not executable outside the original development environment. However, experiment results and videos are publicly available.
 
 
----
-
-## 🚀 Learning & Development Roadmap
-
-📁 [Repository Link](https://github.com/showbhitjain/ROS2_Learning_Practice)
-
-
-Hands-on implementations from the **ROS 2 for Beginners (Parts 1–3)** and **ros2_Control** courses (Packt/Udemy).  
-Developed in **C++** and **Python**, this repository consolidates key ROS 2 concepts forming a strong foundation for advanced robotic manipulation and perception projects.
-
-**Skills Strengthened:**  
-ROS 2 Jazzy • ros2_control • TF2 • Gazebo • URDF/Xacro • Multithreaded Executors • C++17 • Python  
-
-**Next Steps:**  
-- MoveIt 2 for Manipulation and Perception (Pick-and-Place Project)  
-- Deep Learning Specialization (Coursera) — PyTorch + YOLO + OpenCV for vision-based grasping  
-
----
-
-### 🦾 Upcoming: Pick-and-Place Manipulation Project  
- 
-
-A complete **ROS 2 (Jazzy)**–based manipulation pipeline integrating **ros2_control**, **MoveIt 2**, and a **perception module** using **OpenCV** and **YOLOv8** for 6-DoF grasp estimation.  
-This project will focus on **trajectory planning**, **motion execution**, and **sensor-driven grasping** using simulated RGB-D data in **Gazebo/Isaac Sim**.
-
-**Goals:**  
-- Implement motion planning and control for a robotic arm  
-- Integrate object detection and pose estimation with MoveIt 2  
-- Demonstrate a full perception → planning → control pipeline  
-
----
-
 ## 📬 Contact
 
 ✉️ [shobhit.jain.eng@gmail.com](mailto:shobhit.jain.eng@gmail.com)  
